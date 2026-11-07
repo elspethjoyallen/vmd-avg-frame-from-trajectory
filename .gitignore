@@ -1,6 +1,0 @@
-# Generated representative-frame output
-*_avg_frame.pdb
-
-# System-specific Amber topology and trajectory inputs
-*_md.prmtop
-*_step*.nc
